@@ -55,8 +55,7 @@ Download the trained data file from here:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/movie-recommendation-system.git
-cd movie-recommendation-system
+git clone https:https://github.com/SURESH-DEV10/Movie-Recommendation-System
 ```
 
 ### 2. Install dependencies
